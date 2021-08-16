@@ -20,3 +20,5 @@ bash run.sh
 ```
 ![](./images/CIKM2021-Table2.png)
 ![](./images/CIKM2021-Table3.png)
+
+* Note that our TDGNN requires to decompose the tree of each network beforehand, therefore
