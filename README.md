@@ -3,7 +3,7 @@ This repository is an official PyTorch(Geometric) implementation of TDGNN in "Tr
 
 For more insights, (empirical and theoretical) analysis, and discussions about Tree Decomposed Graph Neural Networks, please refer to our paper following below.
 
-![](./framework.png)
+![](./images/framework.png)
 
 ## Requirements
 * PyTorch 1.8.1+cu111
@@ -18,3 +18,5 @@ Note that the version of PyTorch and PyTorch Geometric should be compatible and 
 ```linux
 bash run.sh
 ```
+![](./images/CIKM2021-table2.png)
+![](./images/CIKM2021-table3.png)
