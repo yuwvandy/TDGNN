@@ -18,5 +18,5 @@ Note that the version of PyTorch and PyTorch Geometric should be compatible and 
 ```linux
 bash run.sh
 ```
-![](./images/CIKM2021-table2.png)
-![](./images/CIKM2021-table3.png)
+![](./images/CIKM2021-Table2.png)
+![](./images/CIKM2021-Table3.png)
