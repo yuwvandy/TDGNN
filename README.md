@@ -21,6 +21,6 @@ bash run.sh
 ![](./images/CIKM2021-Table2.png)
 ![](./images/CIKM2021-Table3.png)
 
-<strong> Note that our TDGNN requires the tree decomposition of the network beforehand, which can be generated automatically by running main.py. For example, when we run TDGNN on Cora dataset, two files are generated as follows: </strong>
+<strong> Note that our TDGNN requires the tree decomposition of the network beforehand, which can be generated automatically by running main.py. For example, when we run TDGNN on Cora dataset, two files are generated in the folder tree_info as follows: </strong>
 * <strong> hop_edge_index_Cora_k:</strong> the edge_index file including all edges between each node and their neighborhoods up to 10-hops away.
 * <strong> hop_edge_att_Cora_k:</strong> the edge_att file including attention(edge weights) of the corresponding edge between each node and their neighborhoods up to 10-hops away.
