@@ -1,5 +1,5 @@
 # TDGNN
-This repository is an official PyTorch(Geometric) implementation of TDGNN in "Tree Decomposed Graph Neural Network" (CIKM 2021).
+This repository is an official PyTorch(Geometric) implementation of TDGNN in "Tree Decomposed Graph Neural Network" ([CIKM 2021](https://arxiv.org/abs/2108.11022)).
 
 For more insights, (empirical and theoretical) analysis, and discussions about Tree Decomposed Graph Neural Networks, please refer to our paper following below.
 
